@@ -72,10 +72,18 @@ START_IMG = [
     "https://files.catbox.moe/2f67nk.jpg",
     "https://files.catbox.moe/2cxx3f.jpg",
 ]
+
+# ✅ Added this block to fix the ImportError
+START_VIDS = [
+    "https://telegra.ph/file/e2ab6106ace2e95862372.mp4",
+    "https://files.catbox.moe/oxdwvp.jpg",
+]
+
 STICKERS = [
     "CAACAgUAAxkDAAKJ8mjzrKKSx_jtCbWq2U94p8CRx8efAAKlFwACQWOhV-mhadvvuO74HgQ",
     "CAACAgUAAxkBAAKJ9WjzrNIYgD4lgX-ybfas5R0Ra6T8AAJOFQACcQtxV2_XIVuMIBuuHgQ",
 ]
+
 HELP_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
 PING_VID_URL = "https://files.catbox.moe/oxdwvp.jpg"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
