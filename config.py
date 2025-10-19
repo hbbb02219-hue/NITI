@@ -67,32 +67,24 @@ STRING4 = getenv("STRING_SESSION4")
 STRING5 = getenv("STRING_SESSION5")
 
 # ── Media assets ───────────────────────────────────────────────────────────────
-START_IMG = [
-    "https://files.catbox.moe/oxdwvp.jpg",
-    "https://files.catbox.moe/2f67nk.jpg",
-    "https://files.catbox.moe/2cxx3f.jpg",
-]
-
-# ✅ Added this block to fix the ImportError
 START_VIDS = [
-    "https://telegra.ph/file/e2ab6106ace2e95862372.mp4",
-    "https://files.catbox.moe/oxdwvp.jpg",
+    "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
+    "https://telegra.ph/file/72f349b1386d6d9374a38.mp4",
+    "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
 ]
-
 STICKERS = [
-    "CAACAgUAAxkDAAKJ8mjzrKKSx_jtCbWq2U94p8CRx8efAAKlFwACQWOhV-mhadvvuO74HgQ",
-    "CAACAgUAAxkBAAKJ9WjzrNIYgD4lgX-ybfas5R0Ra6T8AAJOFQACcQtxV2_XIVuMIBuuHgQ",
+    "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
+    "CAACAgUAAx0Cd6nKUAACATJl_rsEJOsaaPSYGhU7bo7iEwL8AAPMDgACu2PYV8Vb8aT4_HUPHgQ",
 ]
-
-HELP_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
-PING_VID_URL = "https://files.catbox.moe/oxdwvp.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
+HELP_IMG_URL = "https://files.catbox.moe/yg2vky.jpg"
+PING_VID_URL = "https://files.catbox.moe/3ivvgo.mp4"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/yhaja5.jpg"
 STATS_VID_URL = "https://telegra.ph/file/e2ab6106ace2e95862372.mp4"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/oxdwvp.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/oxdwvp.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/oxdwvp.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/mlztag.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/tiss2b.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/1d3da7.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/zhymxl.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/veykzq.jpg"
 SPOTIFY_ARTIST_IMG_URL = SPOTIFY_ALBUM_IMG_URL = SPOTIFY_PLAYLIST_IMG_URL = YOUTUBE_IMG_URL
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
